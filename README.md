@@ -1,5 +1,7 @@
 download using ** git clone https://github.com/dan4in/Stable-diffusion-Prompt-Helper-Pony.git 
 
+Modifed from windows to Ubuntu
+
 or downloading zip from releases page  
 
 Make sure to install requirements
